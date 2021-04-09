@@ -1,0 +1,18 @@
+#rows,
+#rows2{
+    float: left;
+}
+
+body
+{
+    text-align: center;
+    background: rgb(34,167,195);
+background: linear-gradient(0deg, rgba(34,167,195,1) 0%, rgba(45,253,184,1) 100%);
+}
+
+#ShowParagraph1,
+#ShowParagraph2{
+    text-align: left;
+    font-family: 'Dancing Script', cursive;
+    font-size: medium;
+}
